@@ -100,3 +100,5 @@ context.modules =
 ]
 
 ```
+
+![pavucontrol](images/eq.png)
