@@ -2,7 +2,7 @@
 convert easyeffects eq file into pipewire format (unfinished!)\
 Edit file to match your configuration before running. Feel free to improve and submit a pull request!
 
-# Sample input (~/pweq/Sennheiser HD 599 ParametricEq.txt)
+## Sample input (~/pweq/Sennheiser HD 599 ParametricEq.txt)
 ```
 Preamp: -11.97 dB
 Filter 1: ON LSC Fc 105.0 Hz Gain 14.5 dB Q 0.70
@@ -17,7 +17,7 @@ Filter 9: ON PK Fc 9292.1 Hz Gain 0.9 dB Q 3.05
 Filter 10: ON HSC Fc 10000.0 Hz Gain 0.0 dB Q 0.70
 ```
 
-# Sample output (stdout)
+## Sample output (stdout)
 ```
 context.modules =
 [
