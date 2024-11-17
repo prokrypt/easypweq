@@ -1,6 +1,6 @@
 # easypweq
 convert easyeffects eq file into pipewire format (unfinished!)\
-Edit file to match your configuration before running. Feel free to improve and submit a pull request!
+Edit file (last line) to match your configuration before running. Feel free to improve and submit a pull request!
 
 ## Sample input (~/pweq/Sennheiser HD 599 ParametricEq.txt)
 ```
