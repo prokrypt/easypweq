@@ -1,6 +1,14 @@
 # easypweq
 convert easyeffects eq file into pipewire format (unfinished!)\
-Edit file (last line) to match your configuration before running. Feel free to improve and submit a pull request!
+
+## Usage
+Edit file (last line) to match your configuration before running. Then:
+```
+mkdir -p ~/.config/pipewire/pipewire.conf.d/
+bash easypweq > ~/.config/pipewire/pipewire.conf.d/MyNiceEQ.conf
+```
+Then restart the relevant service(s) (I think `systemctl restart --user pipewire`?)\
+Feel free to improve and submit a pull request!
 
 ## Sample input (~/pweq/Sennheiser HD 599 ParametricEq.txt)
 ```
