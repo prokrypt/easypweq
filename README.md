@@ -1,5 +1,5 @@
 # easypweq
-convert easyeffects eq file into pipewire format (unfinished!)\
+convert easyeffects eq file into pipewire format (unfinished!)
 
 ## Usage
 Edit file (last line) to match your configuration before running. Then:
