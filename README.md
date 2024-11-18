@@ -1,5 +1,6 @@
 # easypweq
-convert easyeffects eq file into pipewire format (unfinished!)
+Convert easyeffects exported eq file into pipewire format (unfinished!)\
+Good for [AutoEQ](https://autoeq.app/)
 
 ## Usage
 Edit file (last line) to match your configuration before running. Then:
