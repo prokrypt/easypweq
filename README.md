@@ -6,7 +6,7 @@ Good for [AutoEQ](https://autoeq.app/)
 Edit file (last line) to match your configuration before running. Then:
 ```
 mkdir -p ~/.config/pipewire/pipewire.conf.d/
-bash easypweq > ~/.config/pipewire/pipewire.conf.d/MyNiceEQ.conf
+bash easypweq.sh > ~/.config/pipewire/pipewire.conf.d/MyNiceEQ.conf
 ```
 Then restart the relevant service(s) (I think `systemctl restart --user pipewire`?)\
 Feel free to improve and submit a pull request!
